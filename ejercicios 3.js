@@ -1,8 +1,5 @@
+let palabra ="oso"
 
-let palabra = "palabra";
+let longitud = palabra.length
 
-
-let longitud = palabra.length;
-
-
-console.log(palabra + " tiene " + longitud + " letras.");
+console.log(palabra + " tiene " + longitud + " letras.")

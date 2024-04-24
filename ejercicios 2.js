@@ -17,5 +17,5 @@ if (menor > num)
 menor = num2
 if (menor> num3)
   menor=num3
-console.log('el numero mayor es '(mayor))
-consile.log('el numero menor es '(menor))
+console.log(`el numero mayor es $(mayor)`)
+consile.log(`el numero menor es + (menor)`)
