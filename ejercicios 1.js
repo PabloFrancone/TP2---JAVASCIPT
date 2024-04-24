@@ -7,15 +7,7 @@ suma = num + num2
 console.log(suma)
 
 
-act2
-let numb = 1
-let numb2 = 2
-let numb3 = 3
 
-mayor = 0
-menor = 99999999999999
-
-if(numb<numb2)  	{}
 
 act3
 
