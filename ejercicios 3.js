@@ -1,5 +1,3 @@
-let palabra ="oso"
+let palabra ="terranos"
 
-let longitud = palabra.length
-
-console.log(palabra + " tiene " + longitud + " letras.")
+console.log(palabra, "tiene un total de "+ palabra.length + " letras")
