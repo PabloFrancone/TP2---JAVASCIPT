@@ -1,4 +1,4 @@
-//Ingresar dos valores enteros y enumerar los elementos que los separan.
+//act6
 let numero1 = 20
 let numero2 = 25
 let numero = 0
