@@ -1,4 +1,4 @@
-//act8
+// act8
 let n1 = 2
 let n2 = 5
 

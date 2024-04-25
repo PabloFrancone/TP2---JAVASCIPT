@@ -1,4 +1,4 @@
-//act7
+// act7
 let numero1 = 8;
 let numero2 = 27;
 
